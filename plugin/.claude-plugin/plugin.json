@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
-  "name": "alliance-marketing",
-  "displayName": "The Alliance Marketing",
+  "name": "pma-product-marketing-mcp",
+  "displayName": "Product Marketing Alliance Plugin",
   "version": "1.0.0",
   "description": "Expert-backed product marketing guidance: positioning, messaging, differentiation, pricing, launches, GTM, ICP and sales enablement — grounded in The Alliance's curated practitioner library.",
   "author": {

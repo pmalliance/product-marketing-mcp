@@ -8,8 +8,8 @@
   },
   "plugins": [
     {
-      "name": "alliance-marketing",
-      "displayName": "The Alliance Marketing",
+      "name": "pma-product-marketing-mcp",
+      "displayName": "Product Marketing Alliance Plugin",
       "source": "./plugin",
       "description": "Expert-backed product marketing guidance: positioning, messaging, differentiation, pricing, launches, GTM, ICP and sales enablement — grounded in The Alliance's curated practitioner library.",
       "category": "productivity",
