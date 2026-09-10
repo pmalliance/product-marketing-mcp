@@ -2,7 +2,7 @@
   "mcpServers": {
     "Product Marketing Alliance MCP": {
       "type": "http",
-      "url": "https://mcp.allianceteam.io/mcp"
+      "url": "https://mcp.thealliance.io/mcp"
     }
   }
 }
