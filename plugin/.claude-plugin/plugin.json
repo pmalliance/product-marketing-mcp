@@ -4,12 +4,19 @@
   "displayName": "Product Marketing Alliance Plugin",
   "version": "1.0.0",
   "description": "Expert-backed product marketing guidance: positioning, messaging, differentiation, pricing, launches, GTM, ICP and sales enablement — grounded in The Alliance's curated practitioner library.",
+  "icon": "./.claude-plugin/icon.png",
   "author": {
-    "name": "The Alliance",
-    "url": "https://github.com/pmalliance"
+    "name": "Product Marketing Alliance",
+    "email": "hello@productmarketingalliance.com",
+    "url": "https://www.productmarketingalliance.com"
   },
   "homepage": "https://mcp.thealliance.io/docs",
   "repository": "https://github.com/pmalliance/product-marketing-mcp",
+  "license": "MIT",
+  "documentationUrl": "https://mcp.thealliance.io/docs",
+  "supportUrl": "https://www.productmarketingalliance.com/help-centre/",
+  "privacyPolicyUrl": "https://www.productmarketingalliance.com/privacypolicy/",
+  "termsOfServiceUrl": "https://www.productmarketingalliance.com/terms-conditions/",
   "keywords": [
     "product-marketing",
     "positioning",

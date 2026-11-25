@@ -3,8 +3,8 @@
   "name": "the-alliance",
   "description": "Product marketing tooling from The Alliance — expert-backed positioning, messaging, GTM and ICP guidance grounded in the PMA content library.",
   "owner": {
-    "name": "The Alliance",
-    "url": "https://github.com/pmalliance"
+    "name": "Product Marketing Alliance",
+    "url": "https://www.productmarketingalliance.com"
   },
   "plugins": [
     {
@@ -21,10 +21,10 @@
         "icp",
         "pmm"
       ],
-      "homepage": "https://mcp.allianceteam.io/docs",
+      "homepage": "https://mcp.thealliance.io/docs",
       "repository": "https://github.com/pmalliance/product-marketing-mcp",
       "author": {
-        "name": "The Alliance"
+        "name": "Product Marketing Alliance"
       }
     }
   ]
